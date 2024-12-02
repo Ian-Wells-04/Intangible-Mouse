@@ -9,3 +9,5 @@ Required Items:
 5. Surface To attatch sensor to (I just use a piece of cardboard)
 6. NanoEdge (Website to train AI and make a Libary its free)
 7. Arduino IDE 1.8
+8. Install all the Libaries that are included in the code
+9. Install Libary for the Specific Arduino (make sure it's the uno r4 wifi, just uno r4, or a similar one will not work)
