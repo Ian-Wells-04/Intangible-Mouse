@@ -1,3 +1,6 @@
+/* use this to test if information is coming through from the sensor
+ */
+
 /* If you want to use NEAI functions please, include NEAI library
  * in your Arduino libraries then, uncomment NEAI parts in the following code
  */
