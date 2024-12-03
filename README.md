@@ -1,5 +1,5 @@
 # Intangible-Mouse
-Goal: To Create
+Goal: To Create a thing to read vibrations off a surface to simulate mouse inputs
 
 Required Items:
 1. Arduino Uno R4 WIFI
@@ -11,3 +11,7 @@ Required Items:
 7. Arduino IDE 1.8
 8. Install all the Libaries that are included in the code
 9. Install Libary for the Specific Arduino (make sure it's the uno r4 wifi, just uno r4, or a similar one will not work)
+
+
+Orginal Code by mad_mcu
+Link to OG code: https://projecthub.arduino.cc/mad_mcu/cardboard-gesture-recognition-with-embedded-ai-150f27
